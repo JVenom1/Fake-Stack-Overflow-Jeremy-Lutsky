@@ -1,5 +1,4 @@
-cd server --> npm install
-"npm install --global nodemon" or "npm install nodemon"
+cd server --> "npm install --global nodemon" or "npm install nodemon"
 
 new terminal --> "cd client" --> "npm install"
 
